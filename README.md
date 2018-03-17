@@ -16,6 +16,6 @@
      - 高可用性（HA）
      - 集群
      
- :pushpin: 本项目中vertx-core 的示例：[传送门](https://github.com/Dangerxfh/vertx-demo/new/master/vertx-core/README.md) 
+ :pushpin: 本项目中vertx-core 的示例：[传送门](https://github.com/Dangerxfh/vertx-demo/tree/master/vertx-core) 
  
  :pushpin: 想要了解更多关于vertx-core的介绍，可以参考官方文档：[vertx-core](https://vertxchina.github.io/vertx-translation-chinese/core/Core.html)

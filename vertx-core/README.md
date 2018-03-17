@@ -12,5 +12,5 @@
      - 支持发布/订阅、点对点、请求/响应的消息通信方式;
      - 可形成跨越多个服务器节点和多个浏览器的点对点；
      
-  简单工作原理如图：
-     
+  EventBus简单工作原理如图：
+        ![](https://github.com/Dangerxfh/vertx-demo/blob/master/imgs/eventbus.png)

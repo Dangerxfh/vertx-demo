@@ -15,7 +15,6 @@
      - 文件系统访问
      - 高可用性（HA）
      - 集群
-     
-- ### verticle
-    verticle是vertx进行逻辑处理的单位，和Actor模型中的actor类似，vertx底层使用NIO模型，和Netty一样都是对Reactor模式的一种实现，项目中的verticle简单示例在vertx-core/com/keepspy/vertx/core/verticle目录下，
+ 项目中vertx-core 的示例：[传送门](https://github.com/Dangerxfh/vertx-demo/new/master/vertx-core/README.md) 
+
     
